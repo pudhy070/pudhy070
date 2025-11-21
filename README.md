@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=260&section=header&text=Building%20Intelligent%20%26%20Secure%20Systems&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=On-Device%20AI%20%7C%20Network%20Security%20%7C%20Full-Stack%20Solutions&descAlignY=58&descAlign=50"/>
+  <img src="https://share.google/eJ5FYhoetqEHcrLfU"/>
 
   <br>
 
