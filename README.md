@@ -38,7 +38,7 @@
 | Solution | Key Features & Tech Stack |
 | :--- | :--- |
 | <div align="center"><b>🛡️ Sia<br>(Project 날먹기)</b><br><i>Automated Pen-testing Tool</i></div> | **"복잡한 모의해킹을 클릭 한 번으로"**<br>• 20개 이상의 보안 툴을 통합한 GUI 기반 자동화 솔루션<br>• 취약점 분석 리포트 자동 생성<br>🔧 `Python` `PyQt` `Security Tools` |
-| <div align="center"><b>💬 DevArchive<br>(Tomotalk)</b><br><i>Real-time Comm Platform</i></div> | **"대규모 트래픽을 고려한 실시간 소통 플랫폼"**<br>• WebSocket 기반 채팅 및 서버/채널 관리 시스템<br>• Spring Boot의 안정성과 React의 유연성 결합<br>🔧 `Spring Boot` `React` `WebSocket` `MySQL` |
+| <div align="center"><b>💬 DevArchive<br></b><br><i>Real-time Comm Platform</i></div> | **"대규모 트래픽을 고려한 실시간 소통 플랫폼"**<br>• WebSocket 기반 채팅 및 서버/채널 관리 시스템<br>• Spring Boot의 안정성과 React의 유연성 결합<br>🔧 `Spring Boot` `React` `WebSocket` `MySQL` |
 | <div align="center"><b>🤖 AI Research Agent</b><br><i>Analysis Service</i></div> | **"RAG 기반 지능형 분석 서비스"**<br>• 문서 업로드 및 AI 기반 문맥 분석/요약<br>• FastAPI 백엔드와 OpenAI API 연동 최적화<br>🔧 `FastAPI` `LangChain` `MinIO` `React` |
 | <div align="center"><b>🏢 Isekai Archive</b><br><i>Smart Groupware</i></div> | **"조직을 위한 올인원 협업 툴"**<br>• 효율적인 업무 관리를 위한 그룹웨어 아키텍처<br>🔧 `Java` `Spring Security` `Docker` |
 
