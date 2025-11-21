@@ -31,20 +31,26 @@
 
 ---
 
-### 💎 Featured Project
+### 🚧 Featured Project (In Progress)
 
 <div align="center">
 <a href="https://github.com/pudhy070/On-Device-AI-Assistant">
   <img src="https://img.shields.io/badge/Project-Shittim_Chest-3DDC84?style=flat-square&logo=android&logoColor=white&logoSize=auto" height="50"/>
 </a>
-</div>
+<br>
+<img src="https://img.shields.io/badge/Status-Active_Development-orange?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Version-Alpha-lightgrey?style=flat-square"/>
+
+<br><br>
 
 > **"선생님, 업무를 시작할까요?"**
-> <br> <b>Android Tablet 기반 완전 오프라인 3D AI 어시스턴트</b>
+> <br> <b>Android Tablet 기반 완전 오프라인 3D AI 어시스턴트 (연구/개발 중)</b>
 
-| Key Features | Tech Stack |
+</div>
+
+| Key Objectives | Tech Stack |
 | :--- | :--- |
-| 🔒 **Privacy First:** 네트워크 연결 없는 100% 로컬 AI 구동<br>⚡ **Zero Latency:** 하드웨어 직접 제어를 통한 즉각적 반응<br>🗣️ **Full Interaction:** LLM + STT + TTS + 3D 립싱크 구현 | `Android` `Linux` `Python` `PyTorch`<br>`Unity/VRM` `Termux` |
+| 🔒 **Privacy First:** 외부 네트워크 전송 없는 완전한 로컬 구동 목표<br>⚡ **Zero Latency:** 하드웨어 직접 제어를 통한 지연 시간 최소화 연구<br>🗣️ **Ongoing:** LLM 양자화 최적화 및 3D 립싱크 동기화 고도화 중 | `Android` `Linux` `Python` `PyTorch`<br>`Unity/VRM` `Termux` |
 
 <br>
 
