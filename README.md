@@ -1,6 +1,5 @@
 <div align="center">
 
-  <img src="https://share.google/eJ5FYhoetqEHcrLfU"/>
 
   <br>
 
