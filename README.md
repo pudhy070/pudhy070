@@ -15,13 +15,13 @@
 
   <br>
 
-  <a href="https://github.com/사용자ID">
+  <a href="https://github.com/pudhy070">
     <img src="https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white">
   </a>
-  <a href="https://github.com/사용자ID">
+  <a href="https://github.com/pudhy070">
     <img src="https://img.shields.io/badge/Focus-System_Security-black?style=for-the-badge&logo=kalilinux&logoColor=white">
   </a>
-  <a href="https://github.com/사용자ID">
+  <a href="https://github.com/pudhy070">
     <img src="https://img.shields.io/badge/Focus-On--Device_AI-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white">
   </a>
 
