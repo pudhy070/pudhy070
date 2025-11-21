@@ -87,8 +87,6 @@
   <img src="https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=archlinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793d1?style=flat-square&logo=archlinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=fortinet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security-1E90FF?style=flat-square&logo=paloalto&logoColor=white"/>
 </p>
 
 
