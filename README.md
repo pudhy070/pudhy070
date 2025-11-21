@@ -63,7 +63,7 @@
 | :--- | :--- |
 | <div align="center"><a href="https://github.com/pudhy070/AntiSystem"><b>🛡️ Sia CIWS<br>Anti System</b></a><br><i>Network Defense System</i></div> | **"비정상 트래픽 능동 방어 시스템"**<br>• 실시간 패킷 시뮬레이션 및 위험도(4단계) 시각화<br>• CIWS 모드: 임계값 초과 패킷 자동 격리 및 로그 분석<br>🔧 `Python` `Tkinter` `Network Analysis` |
 | <div align="center"><a href="https://github.com/pudhy070/SiaBot"><b>🤖 SiaBot</b></a><br><i>All-in-One Discord Bot</i></div> | **"커뮤니티 운영 자동화 솔루션"**<br>• 음악 재생, 프로필 관리, 서버 관리(역할/청소) 자동화<br>• AI 챗봇 연동 및 신규 유저 환영 시스템 구축<br>🔧 `Python` `discord.py` `YouTube API` |
-| <div align="center"><b>💬 DevArchive<br>(Tomotalk)</b><br><i>Real-time Platform</i></div> | **"대규모 트래픽을 고려한 실시간 소통 플랫폼"**<br>• WebSocket 기반 채팅 및 서버/채널 아키텍처<br>• Spring Boot와 React를 활용한 풀스택 구현<br>🔧 `Spring Boot` `React` `WebSocket` |
+| <div align="center"><b>💬 DevArchive<br></b><br><i>Real-time Platform</i></div> | **"대규모 트래픽을 고려한 실시간 소통 플랫폼"**<br>• WebSocket 기반 채팅 및 서버/채널 아키텍처<br>• Spring Boot와 React를 활용한 풀스택 구현<br>🔧 `Spring Boot` `React` `WebSocket` |
 | <div align="center"><b>🛡️ Sia<br>(Pen-testing)</b><br><i>Security Tool</i></div> | **"복잡한 모의해킹을 클릭 한 번으로"**<br>• 20개 이상의 보안 툴을 통합한 GUI 기반 자동화 툴<br>🔧 `Python` `PyQt` `Security Tools` |
 
 <br>
