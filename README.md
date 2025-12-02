@@ -106,7 +106,8 @@
 ### 📈 Development Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pudhy070&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&count_private=true&cache_seconds=60" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pudhy070&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" height="150" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pudhy070&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&exclude_repo=github-readme-stats&count_private=true&cache_seconds=60" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pudhy070&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&exclude_repo=github-readme-stats" height="150" />
 </div>
+
