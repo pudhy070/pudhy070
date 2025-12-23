@@ -118,23 +118,16 @@
 </picture>
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pudhy070&show_icons=true&rank_icon=github&theme=dark"
-    media="(prefers-color-scheme: dark)"
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pudhy070&show_icons=true&theme=dark&rank_icon=github"
+    height="150"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pudhy070&show_icons=true&rank_icon=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pudhy070&layout=compact&theme=dark"
+    height="150"
   />
-  <img height="150" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pudhy070&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
+</div>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pudhy070&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
