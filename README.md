@@ -3,7 +3,7 @@
   <br>
 
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=1793D1&center=true&vCenter=true&width=600&height=70&lines=Sia@System:~$+neofetch;OS:+Arch+Linux+x86_64;Kernel:+Hardcore+Engineering;Uptime:+Forever+Coding...;Pkgs:+Security,+AI,+Android" alt="Arch Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=1793D1&center=true&vCenter=true&width=600&height=70&lines=Sia@System:~$+fastfetch;OS:+Arch+Linux+x86_64;Kernel:+Hardcore+Engineering;Uptime:+Forever+Coding...;Pkgs:+Security,+AI,+Android" alt="Arch Typing" />
 </div>
 
 ---
