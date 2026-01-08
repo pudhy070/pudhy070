@@ -106,6 +106,5 @@
 ### 📈 Development Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pudhy070&show_icons=true&theme=dark&rank_icon=github" height="150" alt="pudhy070's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pudhy070&layout=compact&theme=dark" height="150" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pudhy070&theme=dark" alt="pudhy070's streak" />
 </div>
