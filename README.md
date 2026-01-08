@@ -110,6 +110,6 @@
 
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Sia@System:~$+./shutdown_system.sh;System+Halted.;See+you+next+time!+👋" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Sia@System:~$+./shutdown_system.sh;System+Halted.;See+you+next+time!" alt="Terminal Typing" />
 </div>
 <br>
