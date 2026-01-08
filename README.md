@@ -106,6 +106,15 @@
 ### 📈 Development Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pudhy070&show_icons=true&theme=dark&rank_icon=github" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pudhy070&layout=compact&theme=dark" height="150" alt="Top Langs" />
+  <img
+    src="https://metrics.lecoq.io/pudhy070
+    ?template=classic
+    &theme=dark
+    &base.header=0
+    &base.activity=1
+    &base.community=1
+    &languages=1
+    &languages.limit=5
+    &languages.colors=github"
+  />
 </div>
