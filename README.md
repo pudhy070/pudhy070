@@ -1,7 +1,10 @@
 <div align="center">
 
-
   <br>
+
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=1793D1&center=true&vCenter=true&width=600&height=70&lines=Sia@System:~$+neofetch;OS:+Arch+Linux+x86_64;Kernel:+Hardcore+Engineering;Uptime:+Forever+Coding...;Pkgs:+Security,+AI,+Android" alt="Arch Typing" />
+</div>
 
   ### 🚀 Engineering Philosophy
 
@@ -103,18 +106,8 @@
 
 ---
 
-### 📈 Development Activity
-
+<br>
 <div align="center">
-  <img
-    src="https://metrics.lecoq.io/pudhy070
-    ?template=classic
-    &theme=dark
-    &base.header=0
-    &base.activity=1
-    &base.community=1
-    &languages=1
-    &languages.limit=5
-    &languages.colors=github"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Sia@System:~$+./shutdown_system.sh;System+Halted.;See+you+next+time!+👋" alt="Terminal Typing" />
 </div>
+<br>
