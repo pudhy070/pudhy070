@@ -106,22 +106,6 @@
 ### 📈 Development Activity
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pudhy070&show_icons=true&theme=dark&rank_icon=github"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pudhy070&layout=compact&theme=dark"
-    height="150"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pudhy070&show_icons=true&theme=dark&rank_icon=github" height="150" alt="pudhy070's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pudhy070&layout=compact&theme=dark" height="150" alt="Top Langs" />
 </div>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pudhy070&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="150" />
-</picture>
-
-</div>
-
-
