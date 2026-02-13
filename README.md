@@ -105,11 +105,17 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 </p>
 
+### Discord
+<a href="https://discord.gg/A6Ydd3KkTs">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+</a>
+
 
 ---
 
 <br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Sia@System:~$+./shutdown_system.sh;System+Halted.;See+you+next+time!" alt="Terminal Typing" />
+ 
 </div>
 <br>
