@@ -107,8 +107,9 @@
 
 ### Discord
 <a href="https://discord.gg/A6Ydd3KkTs">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
 </a>
+<span>Click to join our Discord server</span>
 
 
 ---
